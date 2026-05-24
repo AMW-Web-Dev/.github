@@ -11,7 +11,7 @@
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | [CRM](./CRM/) | Client & project management system for freelancers and small businesses. Features live search (HTMX), dashboard analytics (Chart.js), mobile-responsive cards, and role-based access. | Django 6.0, SQLite/PostgreSQL, HTMX, Chart.js | ✅ Complete |
-| [AMW Django ERP](./AMW_Django_ERP/) | Production-ready ERP system with employee identity, inventory management (WAC valuation), sales/purchasing workflows, audit logging, and HTMX-powered UI. | Django 4.2, PostgreSQL, Redis, Celery, Docker | ✅ Deployed (Render) |
+| [AMW Django ERP](https://github.com/AMW-Web-Dev/AMW_Django_ERP) | Production-ready ERP system with employee identity, inventory management (WAC valuation), sales/purchasing workflows, audit logging, and HTMX-powered UI. | Django 4.2, PostgreSQL, Redis, Celery, Docker | ✅ Deployed (Render) |
 | [Digital Wallet](./DigitalWallet/) | Multi-portal fintech wallet with client/staff separation, atomic transactions, fraud detection, async PDF statement generation, and analytics dashboards. | Django 5.2, PostgreSQL, Celery, Redis, ReportLab | ✅ Complete |
 
 ### Business & Product Management
