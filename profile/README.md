@@ -18,25 +18,25 @@
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [SKUBase](./Python/skubase/) | Product Information Management (PIM) system — single source of truth for product catalogs. Import/export, light/dark mode, responsive design. | Django 5.x, PostgreSQL, Celery, Pure CSS3 | ✅ Complete |
-| [Coursez](./Python/courzes/) | Course platform with tiered access (free, email-gated, purchase-required), lessons management, and email verification flow. | Django 5.1, Tailwind, HTMX, Cloudinary | 🔄 In Progress |
-| [EduToys](./Python/EduToys/) | E-commerce store for educational toys with product catalog, orders, payments, and coupons. | Django, PostgreSQL | 🔄 In Progress |
-| [AMW Store](./Python/amw-st/) | General-purpose e-commerce store built with Django and Semantic UI. | Django, Semantic UI, SQLite | ✅ Complete |
-| [SaaS](./Python/SaaS/) | SaaS application with Django backend and Node.js frontend tooling. | Django, Node.js, Grunt | 🔄 In Progress |
-| [Student Management](./Python/Student_Management/) | Student records system with separate backend and frontend modules. | Django | 🔄 In Progress |
-| [DataHive](./Python/datahive/) | Data management platform for industrial and product data with import/export capabilities. | Django, Pandas, OpenPyXL | 🔄 In Progress |
+| [SKUBase](https://github.com/AMW-Web-Dev/skubase) | Product Information Management (PIM) system — single source of truth for product catalogs. Import/export, light/dark mode, responsive design. | Django 5.x, PostgreSQL, Celery, Pure CSS3 | ✅ Complete |
+| [Coursez](https://github.com/AMW-Web-Dev/courzes) | Course platform with tiered access (free, email-gated, purchase-required), lessons management, and email verification flow. | Django 5.1, Tailwind, HTMX, Cloudinary | 🔄 In Progress |
+| [EduToys](https://github.com/AMW-Web-Dev/EduToys) | E-commerce store for educational toys with product catalog, orders, payments, and coupons. | Django, PostgreSQL | 🔄 In Progress |
+| [AMW Store](https://github.com/AMW-Web-Dev/amw-st) | General-purpose e-commerce store built with Django and Semantic UI. | Django, Semantic UI, SQLite | ✅ Complete |
+| [SaaS](https://github.com/AMW-Web-Dev/SaaS) | SaaS application with Django backend and Node.js frontend tooling. | Django, Node.js, Grunt | 🔄 In Progress |
+| [Student Management](https://github.com/AMW-Web-Dev/Student_Management) | Student records system with separate backend and frontend modules. | Django | 🔄 In Progress |
+| [DataHive](https://github.com/AMW-Web-Dev/datahive) | Data management platform for industrial and product data with import/export capabilities. | Django, Pandas, OpenPyXL | 🔄 In Progress |
 
 ### Portfolio & Templates
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Portfolio](./Python/Portfolio/) | Personal portfolio website with contact forms and project showcases. | HTML, CSS, JS, Django, PostgreSQL |
-| [Amara Store Template](./HTML_CSS_JavaScript/Amara-Store-Template/) | Responsive e-commerce store template — HTML, SASS, and vanilla JS. | HTML, SASS, JavaScript |
-| [Cosmetic Template](./HTML_CSS_JavaScript/Cosmetic-Template/) | Cosmetics brand website template for HTML/SASS/JS practice. | HTML, SASS, JavaScript |
-| [eCommerce Template](./HTML_CSS_JavaScript/eCommerce-Template/) | Modern e-commerce UI template with responsive layout. | HTML, CSS, JavaScript |
-| [Jewellery Template](./HTML_CSS_JavaScript/Jewellery-Template/) | Jewellery website template with transitions, mobile nav, and newsletter modal. | HTML, CSS, JavaScript |
-| [Tourism Template](./HTML_CSS_JavaScript/Tourism-Template/) | Travel & tourism site template — responsive design practice. | HTML, SASS, CSS, JavaScript |
-| [ZeroPractice](./HTML_CSS_JavaScript/ZeroPractice/) | Frontend layout and component practice template. | HTML, CSS, JavaScript |
+| [Portfolio](https://github.com/AMW-Web-Dev/Portfolio) | Personal portfolio website with contact forms and project showcases. | HTML, CSS, JS, Django, PostgreSQL |
+| [Amara Store Template](https://github.com/AMW-Web-Dev/Amara-Store-Template) | Responsive e-commerce store template — HTML, SASS, and vanilla JS. | HTML, SASS, JavaScript |
+| [Cosmetic Template](https://github.com/AMW-Web-Dev/Cosmetic-Template) | Cosmetics brand website template for HTML/SASS/JS practice. | HTML, SASS, JavaScript |
+| [eCommerce Template](https://github.com/AMW-Web-Dev/eCommerce-Template) | Modern e-commerce UI template with responsive layout. | HTML, CSS, JavaScript |
+| [Jewellery Template](https://github.com/AMW-Web-Dev/Jewellery-Template) | Jewellery website template with transitions, mobile nav, and newsletter modal. | HTML, CSS, JavaScript |
+| [Tourism Template](https://github.com/AMW-Web-Dev/Tourism-Template) | Travel & tourism site template — responsive design practice. | HTML, SASS, CSS, JavaScript |
+| [ZeroPractice](https://github.com/AMW-Web-Dev/ZeroPractice) | Frontend layout and component practice template. | HTML, CSS, JavaScript |
 
 ### 📦 Utilities & Templates
 
