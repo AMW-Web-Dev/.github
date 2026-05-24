@@ -18,13 +18,8 @@
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [SKUBase](https://github.com/AMW-Web-Dev/skubase) | Product Information Management (PIM) system — single source of truth for product catalogs. Import/export, light/dark mode, responsive design. | Django 5.x, PostgreSQL, Celery, Pure CSS3 | ✅ Complete |
-| [Coursez](https://github.com/AMW-Web-Dev/courzes) | Course platform with tiered access (free, email-gated, purchase-required), lessons management, and email verification flow. | Django 5.1, Tailwind, HTMX, Cloudinary | 🔄 In Progress |
-| [EduToys](https://github.com/AMW-Web-Dev/EduToys) | E-commerce store for educational toys with product catalog, orders, payments, and coupons. | Django, PostgreSQL | 🔄 In Progress |
 | [AMW Store](https://github.com/AMW-Web-Dev/amw-st) | General-purpose e-commerce store built with Django and Semantic UI. | Django, Semantic UI, SQLite | ✅ Complete |
-| [SaaS](https://github.com/AMW-Web-Dev/SaaS) | SaaS application with Django backend and Node.js frontend tooling. | Django, Node.js, Grunt | 🔄 In Progress |
-| [Student Management](https://github.com/AMW-Web-Dev/Student_Management) | Student records system with separate backend and frontend modules. | Django | 🔄 In Progress |
-| [DataHive](https://github.com/AMW-Web-Dev/datahive) | Data management platform for industrial and product data with import/export capabilities. | Django, Pandas, OpenPyXL | 🔄 In Progress |
+| [SaaS Journal](https://github.com/AMW-Web-Dev/SaaS-Journal) | SaaS application with Django backend and Node.js frontend tooling. | Django, Node.js, Grunt | 🔄 In Progress |
 
 ### Portfolio & Templates
 
